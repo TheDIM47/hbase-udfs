@@ -1,5 +1,7 @@
 #### UDF for Phoenix/HBase/Hadoop
 
+For more information see https://phoenix.apache.org/udf.html
+
 #### en
 
 DateToInv/InvToDate - Convert Date to Inverted date format Unsigned long and back
